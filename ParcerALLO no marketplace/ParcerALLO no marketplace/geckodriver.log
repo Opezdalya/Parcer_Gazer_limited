@@ -1,0 +1,290 @@
+1634245709594	geckodriver	INFO	Listening on 127.0.0.1:65449
+1634245712639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW"
+*** You are running in headless mode.
+1634245717161	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW\\search.json.mozlz4", (void 0)))
+1634245723915	Marionette	INFO	Listening on port 65457
+1634245726140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+1634245823522	Marionette	INFO	Stopped listening on port 65457
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634544126486	geckodriver	INFO	Listening on 127.0.0.1:63039
+1634544129575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt"
+*** You are running in headless mode.
+1634544137844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt\\search.json.mozlz4", (void 0)))
+1634544158220	Marionette	INFO	Listening on port 58241
+1634544158655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634544453258	Marionette	INFO	Stopped listening on port 58241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634545491231	geckodriver	INFO	Listening on 127.0.0.1:64174
+1634545494298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO"
+*** You are running in headless mode.
+1634545496664	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO\\search.json.mozlz4", (void 0)))
+1634545501459	Marionette	INFO	Listening on port 50873
+1634545501627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634545815914	geckodriver	INFO	Listening on 127.0.0.1:52275
+1634545818903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw"
+*** You are running in headless mode.
+1634545822144	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw\\search.json.mozlz4", (void 0)))
+1634545826594	Marionette	INFO	Listening on port 51376
+1634545827103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+1634545856418	Marionette	INFO	Stopped listening on port 51376
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634547214219	geckodriver	INFO	Listening on 127.0.0.1:53271
+1634547217264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZohDUG"
+*** You are running in headless mode.
+1634547218683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZohDUG\\search.json.mozlz4", (void 0)))
+1634547223127	Marionette	INFO	Listening on port 64118
+1634547223793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634547722098	Marionette	INFO	Stopped listening on port 64118
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634548739626	geckodriver	INFO	Listening on 127.0.0.1:52687
+1634548742666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileoXPldy"
+*** You are running in headless mode.
+1634548750137	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileoXPldy\\search.json.mozlz4", (void 0)))
+1634548767747	Marionette	INFO	Listening on port 52695
+1634548768175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634548833882	Marionette	INFO	Stopped listening on port 52695
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 13140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634886527260	geckodriver	INFO	Listening on 127.0.0.1:60915
+1634886530296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileG1fMQB"
+*** You are running in headless mode.
+1634886531657	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileG1fMQB\\search.json.mozlz4", (void 0)))
+1634886535101	Marionette	INFO	Listening on port 60923
+1634886535484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+1634886600347	Marionette	INFO	Stopped listening on port 60923
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634974383169	geckodriver	INFO	Listening on 127.0.0.1:54280
+1634974386190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile5wZ0Ro"
+*** You are running in headless mode.
+1634974388686	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile5wZ0Ro\\search.json.mozlz4", (void 0)))
+1634974394567	Marionette	INFO	Listening on port 54288
+1634974395407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+1634974460191	Marionette	INFO	Stopped listening on port 54288
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635161074181	geckodriver	INFO	Listening on 127.0.0.1:52378
+1635161077207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileYfDflD"
+*** You are running in headless mode.
+1635161078342	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileYfDflD\\search.json.mozlz4", (void 0)))
+1635161081597	Marionette	INFO	Listening on port 52386
+1635161082057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+1635161158290	geckodriver	INFO	Listening on 127.0.0.1:64529
+1635161161353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile9NSOmC"
+*** You are running in headless mode.
+1635161163229	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile9NSOmC\\search.json.mozlz4", (void 0)))
+1635161166275	Marionette	INFO	Listening on port 64537
+1635161166811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635161344127	geckodriver	INFO	Listening on 127.0.0.1:63371
+1635161347180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile7kdXAC"
+*** You are running in headless mode.
+1635161347531	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile7kdXAC\\search.json.mozlz4", (void 0)))
+1635161350330	Marionette	INFO	Listening on port 63379
+1635161350593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 389: unreachable code after return statement
+1635161398882	Marionette	INFO	Stopped listening on port 63379
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637841956572	geckodriver	INFO	Listening on 127.0.0.1:53886
+1637841959610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile8fjO6C"
+*** You are running in headless mode.
+1637841963027	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile8fjO6C\\search.json.mozlz4", (void 0)))
+1637841968125	Marionette	INFO	Listening on port 53894
+1637841968676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+1637842033390	Marionette	INFO	Stopped listening on port 53894
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

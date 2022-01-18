@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Parcer_ITBOX_Brain", "Parcer_ITBOX_Brain\Parcer_ITBOX_Brain.pyproj", "{7473032D-6804-4664-BE2D-144D6F256C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7473032D-6804-4664-BE2D-144D6F256C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7473032D-6804-4664-BE2D-144D6F256C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FAF5CC-7F3F-4AE0-986E-BA39F499720F}
+	EndGlobalSection
+EndGlobal

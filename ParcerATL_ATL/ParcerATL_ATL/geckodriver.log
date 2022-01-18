@@ -1,0 +1,1114 @@
+1634245709594	geckodriver	INFO	Listening on 127.0.0.1:65449
+1634245712639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW"
+*** You are running in headless mode.
+1634245717161	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW\\search.json.mozlz4", (void 0)))
+1634245723915	Marionette	INFO	Listening on port 65457
+1634245726140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+1634245823522	Marionette	INFO	Stopped listening on port 65457
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634544126486	geckodriver	INFO	Listening on 127.0.0.1:63039
+1634544129575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt"
+*** You are running in headless mode.
+1634544137844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt\\search.json.mozlz4", (void 0)))
+1634544158220	Marionette	INFO	Listening on port 58241
+1634544158655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634544453258	Marionette	INFO	Stopped listening on port 58241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634545491231	geckodriver	INFO	Listening on 127.0.0.1:64174
+1634545494298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO"
+*** You are running in headless mode.
+1634545496664	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO\\search.json.mozlz4", (void 0)))
+1634545501459	Marionette	INFO	Listening on port 50873
+1634545501627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634545815914	geckodriver	INFO	Listening on 127.0.0.1:52275
+1634545818903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw"
+*** You are running in headless mode.
+1634545822144	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw\\search.json.mozlz4", (void 0)))
+1634545826594	Marionette	INFO	Listening on port 51376
+1634545827103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+1634545856418	Marionette	INFO	Stopped listening on port 51376
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634547214219	geckodriver	INFO	Listening on 127.0.0.1:53271
+1634547217264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZohDUG"
+*** You are running in headless mode.
+1634547218683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZohDUG\\search.json.mozlz4", (void 0)))
+1634547223127	Marionette	INFO	Listening on port 64118
+1634547223793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634547722098	Marionette	INFO	Stopped listening on port 64118
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635758626153	geckodriver	INFO	Listening on 127.0.0.1:56544
+1635758629570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMX3QW3"
+*** You are running in headless mode.
+1635758638276	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMX3QW3\\search.json.mozlz4", (void 0)))
+1635758658057	Marionette	INFO	Listening on port 56556
+1635758658430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1422: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635758668613	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1635758668956	Marionette	INFO	Stopped listening on port 56556
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 11940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1635758704326	geckodriver	INFO	Listening on 127.0.0.1:56694
+1635758707359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileEWZf4W"
+*** You are running in headless mode.
+1635758710118	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileEWZf4W\\search.json.mozlz4", (void 0)))
+1635758714673	Marionette	INFO	Listening on port 56704
+1635758715405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635758813451	geckodriver	INFO	Listening on 127.0.0.1:56855
+1635758816506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilenDm7UI"
+*** You are running in headless mode.
+1635758821806	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilenDm7UI\\search.json.mozlz4", (void 0)))
+1635758825263	Marionette	INFO	Listening on port 56864
+1635758825628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635758826407	Marionette	INFO	Stopped listening on port 56864
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 16672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 186: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine yandex@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine priceru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine mailru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine ozonru@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1635762992354	geckodriver	INFO	Listening on 127.0.0.1:59266
+1635762995323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileylZBco"
+*** You are running in headless mode.
+1635763005509	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileylZBco\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635763032245	Marionette	INFO	Listening on port 59276
+1635763032752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 1422: ReferenceError: ga is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635763098990	geckodriver	INFO	Listening on 127.0.0.1:59443
+1635763102026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile8oUkkQ"
+1635763104645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile8oUkkQ\\search.json.mozlz4", (void 0)))
+1635763113647	Marionette	INFO	Listening on port 59453
+1635763114311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1422: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: , line 0: uncaught exception: Object
+1635763159341	Marionette	INFO	Stopped listening on port 59453
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635763166838	geckodriver	INFO	Listening on 127.0.0.1:59588
+1635763169804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile63wOrL"
+1635763172550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile63wOrL\\search.json.mozlz4", (void 0)))
+1635763179936	Marionette	INFO	Listening on port 59597
+1635763180597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635763213633	Marionette	INFO	Stopped listening on port 59597
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635764694033	geckodriver	INFO	Listening on 127.0.0.1:61235
+1635764697026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilekvrXez"
+*** You are running in headless mode.
+1635764700150	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilekvrXez\\search.json.mozlz4", (void 0)))
+1635764704986	Marionette	INFO	Listening on port 61245
+1635764709083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1422: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635764970569	geckodriver	INFO	Listening on 127.0.0.1:51332
+1635764973454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilezyvaoU"
+1635764975453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilezyvaoU\\search.json.mozlz4", (void 0)))
+1635764984640	Marionette	INFO	Listening on port 51342
+1635764985971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635767971752	geckodriver	INFO	Listening on 127.0.0.1:53105
+1635767974828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZE02yJ"
+*** You are running in headless mode.
+1635767983433	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZE02yJ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635768008610	Marionette	INFO	Listening on port 53115
+1635768008886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635768200694	geckodriver	INFO	Listening on 127.0.0.1:53337
+1635768203661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileOsc7By"
+1635768205927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileOsc7By\\search.json.mozlz4", (void 0)))
+1635768214624	Marionette	INFO	Listening on port 53350
+1635768214735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1422: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635768295933	Marionette	INFO	Stopped listening on port 53350
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635768304718	geckodriver	INFO	Listening on 127.0.0.1:53510
+1635768307746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilesGlWPz"
+1635768309832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilesGlWPz\\search.json.mozlz4", (void 0)))
+1635768314881	Marionette	INFO	Listening on port 53520
+1635768315658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: https://atl.ua/search?q=, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635768706894	Marionette	INFO	Stopped listening on port 53520
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:207:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2147:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2647:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2134: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635768716964	geckodriver	INFO	Listening on 127.0.0.1:53758
+1635768719976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileoTOWRL"
+1635768721811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileoTOWRL\\search.json.mozlz4", (void 0)))
+1635768728242	Marionette	INFO	Listening on port 53773
+1635768728961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1422: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635768772070	Marionette	INFO	Stopped listening on port 53773
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:207:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2147:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2647:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2134: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635768904156	geckodriver	INFO	Listening on 127.0.0.1:53918
+1635768907193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileX5Gxfm"
+1635768907864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileX5Gxfm\\search.json.mozlz4", (void 0)))
+1635768913178	Marionette	INFO	Listening on port 53928
+1635768913874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1422: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+1635768923919	Marionette	INFO	Stopped listening on port 53928
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:207:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2147:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2647:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2134: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 7740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635769038050	geckodriver	INFO	Listening on 127.0.0.1:54077
+1635769041057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofiledz63w2"
+1635769042391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofiledz63w2\\search.json.mozlz4", (void 0)))
+1635769047632	Marionette	INFO	Listening on port 54085
+1635769047653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/avtozapchasti/maslyanyj-filtr39, line 438: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap without a browsingContextID set
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635769159504	geckodriver	INFO	Listening on 127.0.0.1:54208
+1635769162494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMzWp7o"
+1635769165354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMzWp7o\\search.json.mozlz4", (void 0)))
+1635769171188	Marionette	INFO	Listening on port 54216
+1635769171824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/avtozapchasti/maslyanyj-filtr39, line 438: ReferenceError: ga is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635773248238	geckodriver	INFO	Listening on 127.0.0.1:57056
+1635773251607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilen9HIwY"
+1635773253666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilen9HIwY\\search.json.mozlz4", (void 0)))
+1635773267320	Marionette	INFO	Listening on port 57065
+1635773267794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P4KTD9, line 290: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+1635773301548	Marionette	INFO	Stopped listening on port 57065
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 11840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636541301312	geckodriver	INFO	Listening on 127.0.0.1:51185
+1636541304499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofileHo6aKW"
+*** You are running in headless mode.
+1636541316515	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofileHo6aKW\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1636541349165	Marionette	INFO	Listening on port 51199
+1636541350591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636541403503	Marionette	INFO	Stopped listening on port 51199
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636541639687	geckodriver	INFO	Listening on 127.0.0.1:51474
+1636541642962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofile3bS9QN"
+*** You are running in headless mode.
+1636541645136	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofile3bS9QN\\search.json.mozlz4", (void 0)))
+1636541651663	Marionette	INFO	Listening on port 51484
+1636541652641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636541665447	Marionette	INFO	Stopped listening on port 51484
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[Parent 9156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636541713876	geckodriver	INFO	Listening on 127.0.0.1:51620
+1636541716920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofile6wC0MX"
+*** You are running in headless mode.
+1636541719134	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofile6wC0MX\\search.json.mozlz4", (void 0)))
+1636541723856	Marionette	INFO	Listening on port 51629
+1636541724094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636541762470	Marionette	INFO	Stopped listening on port 51629
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636541801563	geckodriver	INFO	Listening on 127.0.0.1:51762
+1636541804630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofileAVQypk"
+*** You are running in headless mode.
+1636541806492	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofileAVQypk\\search.json.mozlz4", (void 0)))
+1636541811080	Marionette	INFO	Listening on port 51773
+1636541812031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+[Parent 19196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+out of memory: 0x00000000000270D2 bytes requested
+out of memory: 0x0000000000011000 bytes requested
+1636541904086	geckodriver	INFO	Listening on 127.0.0.1:51881
+1636541907091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofilellLeqH"
+*** You are running in headless mode.
+1636541909417	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofilellLeqH\\search.json.mozlz4", (void 0)))
+1636541913111	Marionette	INFO	Listening on port 51890
+1636541913559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636541950463	Marionette	INFO	Stopped listening on port 51890
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636542031663	geckodriver	INFO	Listening on 127.0.0.1:52059
+1636542034742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofilePdvMfj"
+*** You are running in headless mode.
+1636542035252	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP\\AppData\\Local\\Temp\\rust_mozprofilePdvMfj\\search.json.mozlz4", (void 0)))
+1636542038418	Marionette	INFO	Listening on port 52068
+1636542039490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636542077400	Marionette	INFO	Stopped listening on port 52068
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636617581944	geckodriver	INFO	Listening on 127.0.0.1:60762
+1636617584993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilez3gxZn"
+*** You are running in headless mode.
+1636617596746	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilez3gxZn\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1636617624757	Marionette	INFO	Listening on port 60770
+1636617625721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636617672210	Marionette	INFO	Stopped listening on port 60770
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636621200137	geckodriver	INFO	Listening on 127.0.0.1:62764
+1636621203281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilefkNF3i"
+*** You are running in headless mode.
+1636621209728	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilefkNF3i\\search.json.mozlz4", (void 0)))
+1636621226738	Marionette	INFO	Listening on port 62775
+1636621227185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636621235746	Marionette	INFO	Stopped listening on port 62775
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 14540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636621289708	geckodriver	INFO	Listening on 127.0.0.1:62922
+1636621292718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileioRosz"
+*** You are running in headless mode.
+1636621295285	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileioRosz\\search.json.mozlz4", (void 0)))
+1636621298600	Marionette	INFO	Listening on port 62932
+1636621299041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636621305558	Marionette	INFO	Stopped listening on port 62932
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 9104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636621422896	geckodriver	INFO	Listening on 127.0.0.1:63116
+1636621425917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileIqaxjf"
+*** You are running in headless mode.
+1636621426976	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileIqaxjf\\search.json.mozlz4", (void 0)))
+1636621430308	Marionette	INFO	Listening on port 63125
+1636621430837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636621457841	Marionette	INFO	Stopped listening on port 63125
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636621551511	geckodriver	INFO	Listening on 127.0.0.1:63293
+1636621554565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileBtmPzB"
+*** You are running in headless mode.
+1636621554918	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileBtmPzB\\search.json.mozlz4", (void 0)))
+1636621557861	Marionette	INFO	Listening on port 63302
+1636621558689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636621570678	Marionette	INFO	Stopped listening on port 63302
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636621891420	geckodriver	INFO	Listening on 127.0.0.1:63648
+1636621894477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileG6XUdG"
+*** You are running in headless mode.
+1636621895057	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileG6XUdG\\search.json.mozlz4", (void 0)))
+1636621898078	Marionette	INFO	Listening on port 63662
+1636621898562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636621917885	Marionette	INFO	Stopped listening on port 63662
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636621951443	geckodriver	INFO	Listening on 127.0.0.1:63788
+1636621954430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile62UTLN"
+1636621955641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile62UTLN\\search.json.mozlz4", (void 0)))
+1636621963714	Marionette	INFO	Listening on port 63797
+1636621964580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636621982590	Marionette	INFO	Stopped listening on port 63797
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636622009933	geckodriver	INFO	Listening on 127.0.0.1:63921
+1636622012967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileZsHuDO"
+1636622013357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileZsHuDO\\search.json.mozlz4", (void 0)))
+1636622016890	Marionette	INFO	Listening on port 63931
+1636622017306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636622029803	Marionette	INFO	Stopped listening on port 63931
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636622273656	geckodriver	INFO	Listening on 127.0.0.1:64192
+1636622276706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileN400s2"
+1636622277082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileN400s2\\search.json.mozlz4", (void 0)))
+1636622281149	Marionette	INFO	Listening on port 64201
+1636622281562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636622293363	Marionette	INFO	Stopped listening on port 64201
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636622385543	geckodriver	INFO	Listening on 127.0.0.1:64352
+1636622388576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileX2rlhO"
+1636622389091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileX2rlhO\\search.json.mozlz4", (void 0)))
+1636622392708	Marionette	INFO	Listening on port 64362
+1636622393099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636622405651	Marionette	INFO	Stopped listening on port 64362
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636622806194	geckodriver	INFO	Listening on 127.0.0.1:64852
+1636622809191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilermvdt4"
+1636622814239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilermvdt4\\search.json.mozlz4", (void 0)))
+1636622830043	Marionette	INFO	Listening on port 64862
+1636622830716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636622866757	Marionette	INFO	Stopped listening on port 64862
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 15324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636622949935	geckodriver	INFO	Listening on 127.0.0.1:65112
+1636622952929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile2xtQqq"
+1636622953427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile2xtQqq\\search.json.mozlz4", (void 0)))
+1636622957504	Marionette	INFO	Listening on port 65123
+1636622958057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636622965518	Marionette	INFO	Stopped listening on port 65123
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x18000F,name=PBackgroundLSSnapshot::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636622995686	geckodriver	INFO	Listening on 127.0.0.1:65259
+1636622998683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofiledTFWEe"
+1636623000427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofiledTFWEe\\search.json.mozlz4", (void 0)))
+1636623004509	Marionette	INFO	Listening on port 65270
+1636623005231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636623012005	Marionette	INFO	Stopped listening on port 65270
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1636623024366	geckodriver	INFO	Listening on 127.0.0.1:65391
+1636623027418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileCwl0L9"
+1636623028223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileCwl0L9\\search.json.mozlz4", (void 0)))
+1636623031883	Marionette	INFO	Listening on port 65402
+1636623032272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636623164736	geckodriver	INFO	Listening on 127.0.0.1:49244
+1636623167808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilegx8hzN"
+1636623168831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilegx8hzN\\search.json.mozlz4", (void 0)))
+1636623172639	Marionette	INFO	Listening on port 49255
+1636623172673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636623262481	geckodriver	INFO	Listening on 127.0.0.1:49440
+1636623265521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile13wyEn"
+1636623266309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile13wyEn\\search.json.mozlz4", (void 0)))
+1636623270651	Marionette	INFO	Listening on port 49451
+1636623271186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636623313715	geckodriver	INFO	Listening on 127.0.0.1:49594
+1636623316767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilep69rik"
+1636623317426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilep69rik\\search.json.mozlz4", (void 0)))
+1636623321046	Marionette	INFO	Listening on port 49604
+1636623321451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636623386910	Marionette	INFO	Stopped listening on port 49604
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636623482449	geckodriver	INFO	Listening on 127.0.0.1:49875
+1636623485457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile1kGosZ"
+1636623486105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile1kGosZ\\search.json.mozlz4", (void 0)))
+1636623489638	Marionette	INFO	Listening on port 49888
+1636623490045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636623536487	geckodriver	INFO	Listening on 127.0.0.1:50027
+1636623539543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileVu0kig"
+1636623539861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileVu0kig\\search.json.mozlz4", (void 0)))
+1636623543684	Marionette	INFO	Listening on port 50038
+1636623544102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap without a browsingContextID set
+1636629086458	geckodriver	INFO	Listening on 127.0.0.1:55951
+1636629089488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileS3At9t"
+1636629091620	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileS3At9t\\search.json.mozlz4", (void 0)))
+1636629099234	Marionette	INFO	Listening on port 55962
+1636629100069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629136188	Marionette	INFO	Stopped listening on port 55962
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 9312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636629158052	geckodriver	INFO	Listening on 127.0.0.1:56129
+1636629161115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile0Eqne5"
+1636629161914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile0Eqne5\\search.json.mozlz4", (void 0)))
+1636629165578	Marionette	INFO	Listening on port 56139
+1636629165944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629172661	Marionette	INFO	Stopped listening on port 56139
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636629349372	geckodriver	INFO	Listening on 127.0.0.1:56446
+1636629352423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilewraAnu"
+1636629354809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilewraAnu\\search.json.mozlz4", (void 0)))
+1636629358469	Marionette	INFO	Listening on port 56456
+1636629358916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629393416	geckodriver	INFO	Listening on 127.0.0.1:56596
+1636629396440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilePWtMVn"
+1636629396919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilePWtMVn\\search.json.mozlz4", (void 0)))
+1636629400555	Marionette	INFO	Listening on port 56606
+1636629400968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629469759	geckodriver	INFO	Listening on 127.0.0.1:56770
+1636629472769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileAfblOO"
+1636629473244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileAfblOO\\search.json.mozlz4", (void 0)))
+1636629476808	Marionette	INFO	Listening on port 56781
+1636629477071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629513254	Marionette	INFO	Stopped listening on port 56781
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636629583240	geckodriver	INFO	Listening on 127.0.0.1:56989
+1636629586308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileCz86jL"
+1636629586670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileCz86jL\\search.json.mozlz4", (void 0)))
+1636629590385	Marionette	INFO	Listening on port 57000
+1636629590757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629768449	geckodriver	INFO	Listening on 127.0.0.1:57281
+1636629771507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilekqrCYl"
+1636629771991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilekqrCYl\\search.json.mozlz4", (void 0)))
+1636629775628	Marionette	INFO	Listening on port 57291
+1636629776174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629810278	Marionette	INFO	Stopped listening on port 57291
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636629955496	geckodriver	INFO	Listening on 127.0.0.1:57577
+1636629958527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile64Hjff"
+1636629959137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile64Hjff\\search.json.mozlz4", (void 0)))
+1636629962632	Marionette	INFO	Listening on port 57587
+1636629963015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636629992800	Marionette	INFO	Stopped listening on port 57587
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636630732384	geckodriver	INFO	Listening on 127.0.0.1:59179
+1636630735417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileVf0Gv4"
+1636630738344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileVf0Gv4\\search.json.mozlz4", (void 0)))
+1636630757887	Marionette	INFO	Listening on port 59191
+1636630758390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636630882633	Marionette	INFO	Stopped listening on port 59191
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 13408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636630936574	geckodriver	INFO	Listening on 127.0.0.1:59537
+1636630939623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileRuPM99"
+1636630941555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileRuPM99\\search.json.mozlz4", (void 0)))
+1636630945630	Marionette	INFO	Listening on port 59548
+1636630946143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1636633208247	geckodriver	INFO	Listening on 127.0.0.1:62272
+1636633211617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilemmnozR"
+1636633217385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilemmnozR\\search.json.mozlz4", (void 0)))
+1636633236370	Marionette	INFO	Listening on port 62283
+1636633236763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636633256838	Marionette	INFO	Stopped listening on port 62283
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 15620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636634251894	geckodriver	INFO	Listening on 127.0.0.1:63297
+1636634254952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileqlxL80"
+1636634260837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileqlxL80\\search.json.mozlz4", (void 0)))
+1636634279892	Marionette	INFO	Listening on port 63306
+1636634280475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636634373665	Marionette	INFO	Stopped listening on port 63306
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636634540543	geckodriver	INFO	Listening on 127.0.0.1:63587
+1636634543593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilekiIVpw"
+1636634545945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilekiIVpw\\search.json.mozlz4", (void 0)))
+1636634549648	Marionette	INFO	Listening on port 63596
+1636634549994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1636634622600	geckodriver	INFO	Listening on 127.0.0.1:63735
+1636634625686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileIGVyRn"
+1636634626102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileIGVyRn\\search.json.mozlz4", (void 0)))
+1636634629858	Marionette	INFO	Listening on port 63744
+1636634630237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636634639376	Marionette	INFO	Stopped listening on port 63744
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636634679506	geckodriver	INFO	Listening on 127.0.0.1:63870
+1636634682564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileCVu7zh"
+1636634682913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileCVu7zh\\search.json.mozlz4", (void 0)))
+1636634687885	Marionette	INFO	Listening on port 63879
+1636634688269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636634793300	Marionette	INFO	Stopped listening on port 63879
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636635054183	geckodriver	INFO	Listening on 127.0.0.1:64232
+1636635057269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilenh8z3I"
+1636635057663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilenh8z3I\\search.json.mozlz4", (void 0)))
+1636635061223	Marionette	INFO	Listening on port 64241
+1636635061646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1424: ReferenceError: ga is not defined
+1636635133618	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1636635158627	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1636635162971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1636635180459	Marionette	INFO	Stopped listening on port 64241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1637049217088	geckodriver	INFO	Listening on 127.0.0.1:54916
+1637049220395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileG1vdgJ"
+1637049229742	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileG1vdgJ\\search.json.mozlz4", (void 0)))
+1637049261215	Marionette	INFO	Listening on port 54924
+1637049262015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+1637049466929	geckodriver	INFO	Listening on 127.0.0.1:55116
+1637049470104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileuCbbsb"
+1637049472935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileuCbbsb\\search.json.mozlz4", (void 0)))
+1637049477105	Marionette	INFO	Listening on port 55124
+1637049477498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1311: ReferenceError: ga is not defined
+1637049560620	geckodriver	INFO	Listening on 127.0.0.1:55248
+1637049563643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile7IMhFW"
+1637049564293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile7IMhFW\\search.json.mozlz4", (void 0)))
+1637049568539	Marionette	INFO	Listening on port 55257
+1637049568940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1311: ReferenceError: ga is not defined
+1637049600627	geckodriver	INFO	Listening on 127.0.0.1:55373
+1637049603656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileVy25CZ"
+1637049604153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileVy25CZ\\search.json.mozlz4", (void 0)))
+1637049608455	Marionette	INFO	Listening on port 55382
+1637049608726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637049618516	Marionette	INFO	Stopped listening on port 55382
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637049626474	geckodriver	INFO	Listening on 127.0.0.1:55447
+1637049629516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofilevwQ55r"
+1637049630016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofilevwQ55r\\search.json.mozlz4", (void 0)))
+1637049633945	Marionette	INFO	Listening on port 55457
+1637049634326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637049724828	geckodriver	INFO	Listening on 127.0.0.1:55522
+1637049727881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofile4UR3GZ"
+1637049728256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofile4UR3GZ\\search.json.mozlz4", (void 0)))
+1637049731780	Marionette	INFO	Listening on port 55530
+1637049732222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1311: ReferenceError: ga is not defined
+1637049737787	Marionette	INFO	Stopped listening on port 55530
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 11124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637049804615	geckodriver	INFO	Listening on 127.0.0.1:55630
+1637049807648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileat6uJS"
+1637049808195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileat6uJS\\search.json.mozlz4", (void 0)))
+1637049812060	Marionette	INFO	Listening on port 55640
+1637049812542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1311: ReferenceError: ga is not defined
+1637049912118	Marionette	INFO	Stopped listening on port 55640
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639649515179	geckodriver	INFO	Listening on 127.0.0.1:53165
+1639649518222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53166" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofilen8KLVS"
+1639649518955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofilen8KLVS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53166/devtools/browser/1c01936f-ca64-4f67-baa5-153ed20d6d0b
+1639649521571	Marionette	INFO	Listening on port 53171
+1639649521919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://atl.ua/search?q=Gazer, line 53: ReferenceError: dataLayer is not defined
+JavaScript error: https://atl.ua/search?q=Gazer, line 1361: ReferenceError: ga is not defined
+1639649621460	Marionette	INFO	Stopped listening on port 53171
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

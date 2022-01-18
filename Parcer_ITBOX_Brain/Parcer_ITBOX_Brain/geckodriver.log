@@ -1,0 +1,474 @@
+1634245709594	geckodriver	INFO	Listening on 127.0.0.1:65449
+1634245712639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW"
+*** You are running in headless mode.
+1634245717161	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW\\search.json.mozlz4", (void 0)))
+1634245723915	Marionette	INFO	Listening on port 65457
+1634245726140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+1634245823522	Marionette	INFO	Stopped listening on port 65457
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634544126486	geckodriver	INFO	Listening on 127.0.0.1:63039
+1634544129575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt"
+*** You are running in headless mode.
+1634544137844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt\\search.json.mozlz4", (void 0)))
+1634544158220	Marionette	INFO	Listening on port 58241
+1634544158655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634544453258	Marionette	INFO	Stopped listening on port 58241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634545491231	geckodriver	INFO	Listening on 127.0.0.1:64174
+1634545494298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO"
+*** You are running in headless mode.
+1634545496664	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO\\search.json.mozlz4", (void 0)))
+1634545501459	Marionette	INFO	Listening on port 50873
+1634545501627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634545815914	geckodriver	INFO	Listening on 127.0.0.1:52275
+1634545818903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw"
+*** You are running in headless mode.
+1634545822144	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw\\search.json.mozlz4", (void 0)))
+1634545826594	Marionette	INFO	Listening on port 51376
+1634545827103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+1634545856418	Marionette	INFO	Stopped listening on port 51376
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634547214219	geckodriver	INFO	Listening on 127.0.0.1:53271
+1634547217264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZohDUG"
+*** You are running in headless mode.
+1634547218683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZohDUG\\search.json.mozlz4", (void 0)))
+1634547223127	Marionette	INFO	Listening on port 64118
+1634547223793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634547722098	Marionette	INFO	Stopped listening on port 64118
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635770662686	geckodriver	INFO	Listening on 127.0.0.1:54793
+1635770665733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileD3FLOC"
+*** You are running in headless mode.
+1635770674622	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileD3FLOC\\search.json.mozlz4", (void 0)))
+1635770699601	Marionette	INFO	Listening on port 54804
+1635770700299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635770726939	Marionette	INFO	Stopped listening on port 54804
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 18688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1635770781934	geckodriver	INFO	Listening on 127.0.0.1:54974
+1635770784965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileaHrZD1"
+*** You are running in headless mode.
+1635770786882	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileaHrZD1\\search.json.mozlz4", (void 0)))
+1635770791677	Marionette	INFO	Listening on port 54984
+1635770792195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635770800335	Marionette	INFO	Stopped listening on port 54984
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 11296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635770835129	geckodriver	INFO	Listening on 127.0.0.1:55082
+1635770838201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile1q8bc0"
+*** You are running in headless mode.
+1635770839779	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile1q8bc0\\search.json.mozlz4", (void 0)))
+1635770843447	Marionette	INFO	Listening on port 55092
+1635770843793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635770847121	Marionette	INFO	Stopped listening on port 55092
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1635771005189	geckodriver	INFO	Listening on 127.0.0.1:55272
+1635771008203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileHbUC6c"
+*** You are running in headless mode.
+1635771013702	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileHbUC6c\\search.json.mozlz4", (void 0)))
+1635771024357	Marionette	INFO	Listening on port 55281
+1635771025053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635771028687	Marionette	INFO	Stopped listening on port 55281
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1635771199218	geckodriver	INFO	Listening on 127.0.0.1:55460
+1635771202297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilenTHrJM"
+*** You are running in headless mode.
+1635771202752	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilenTHrJM\\search.json.mozlz4", (void 0)))
+1635771206449	Marionette	INFO	Listening on port 55469
+1635771206795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635771235461	geckodriver	INFO	Listening on 127.0.0.1:55572
+1635771238504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilefPgyGM"
+*** You are running in headless mode.
+1635771238956	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilefPgyGM\\search.json.mozlz4", (void 0)))
+1635771242370	Marionette	INFO	Listening on port 55581
+1635771242931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635771293740	geckodriver	INFO	Listening on 127.0.0.1:55696
+1635771296818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilesMPGmf"
+*** You are running in headless mode.
+1635771297254	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilesMPGmf\\search.json.mozlz4", (void 0)))
+1635771300446	Marionette	INFO	Listening on port 55705
+1635771300693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635771347348	geckodriver	INFO	Listening on 127.0.0.1:55814
+1635771350394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileUVaY00"
+*** You are running in headless mode.
+1635771350959	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileUVaY00\\search.json.mozlz4", (void 0)))
+1635771354242	Marionette	INFO	Listening on port 55823
+1635771354770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635771384672	geckodriver	INFO	Listening on 127.0.0.1:55926
+1635771387725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile2WczbE"
+*** You are running in headless mode.
+1635771388245	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile2WczbE\\search.json.mozlz4", (void 0)))
+1635771391498	Marionette	INFO	Listening on port 55935
+1635771391997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635771480927	Marionette	INFO	Stopped listening on port 55935
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635771630352	geckodriver	INFO	Listening on 127.0.0.1:56146
+1635771633418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile0OCtRb"
+*** You are running in headless mode.
+1635771634211	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile0OCtRb\\search.json.mozlz4", (void 0)))
+1635771639716	Marionette	INFO	Listening on port 56155
+1635771640348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635771727174	Marionette	INFO	Stopped listening on port 56155
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637758905233	geckodriver	INFO	Listening on 127.0.0.1:57928
+1637758908355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\TEMP~1.DES\\AppData\\Local\\Temp\\rust_mozprofileq98Ti0"
+*** You are running in headless mode.
+1637758912326	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M\\AppData\\Local\\Temp\\rust_mozprofileq98Ti0\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1637758934814	Marionette	INFO	Listening on port 57936
+1637758935277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637759039697	Marionette	INFO	Stopped listening on port 57936
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 14020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639730456195	geckodriver	INFO	Listening on 127.0.0.1:51159
+1639730459263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51160" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileAv5Cou"
+*** You are running in headless mode.
+1639730460122	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileAv5Cou\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51160/devtools/browser/e5bea171-077f-4583-915f-33fd5fe215c7
+1639730461941	Marionette	INFO	Listening on port 51173
+1639730462454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639730555417	Marionette	INFO	Stopped listening on port 51173
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639730649538	geckodriver	INFO	Listening on 127.0.0.1:51291
+1639730652333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51292" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileneTA3O"
+*** You are running in headless mode.
+1639730653048	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileneTA3O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51292/devtools/browser/cbd40f9c-3112-44c9-881c-a9f62fd1a198
+1639730654607	Marionette	INFO	Listening on port 51297
+1639730655013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639730741038	Marionette	INFO	Stopped listening on port 51297
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639730774739	geckodriver	INFO	Listening on 127.0.0.1:51397
+1639730777615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51398" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofilehWNDsc"
+*** You are running in headless mode.
+1639730778359	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofilehWNDsc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51398/devtools/browser/c0fb5cfd-d216-4d70-a22c-571c71a2d916
+1639730779989	Marionette	INFO	Listening on port 51405
+1639730780286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639730867272	Marionette	INFO	Stopped listening on port 51405
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639731255018	geckodriver	INFO	Listening on 127.0.0.1:51540
+1639731258688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51541" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofile8coVk7"
+*** You are running in headless mode.
+1639731259349	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofile8coVk7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51541/devtools/browser/161bac1e-8840-474e-bfd3-fe2537ab5bf7
+1639731260881	Marionette	INFO	Listening on port 51548
+1639731261360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639731345422	Marionette	INFO	Stopped listening on port 51548
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639732637566	geckodriver	INFO	Listening on 127.0.0.1:56558
+1639732641373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56559" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileg4kI4j"
+*** You are running in headless mode.
+1639732642073	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileg4kI4j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56559/devtools/browser/6d5db21c-3e33-454d-8286-3b965c0cb555
+1639732643634	Marionette	INFO	Listening on port 56566
+1639732644059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2110:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1639732673462	geckodriver	INFO	Listening on 127.0.0.1:56659
+1639732676292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56660" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileJeVpky"
+*** You are running in headless mode.
+1639732677001	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileJeVpky\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56660/devtools/browser/06d652fa-e640-4233-8ae0-a36399e6e824
+1639732678460	Marionette	INFO	Listening on port 56665
+1639732678972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639732714654	geckodriver	INFO	Listening on 127.0.0.1:56756
+1639732717500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56757" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileEGmbG8"
+*** You are running in headless mode.
+1639732718218	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileEGmbG8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56757/devtools/browser/15950935-51b0-4540-aa45-ac117bd6bddd
+1639732719660	Marionette	INFO	Listening on port 56762
+1639732720178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639732809650	Marionette	INFO	Stopped listening on port 56762
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639732868246	geckodriver	INFO	Listening on 127.0.0.1:56851
+1639732871084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56852" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofilenXBtRS"
+*** You are running in headless mode.
+1639732871778	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofilenXBtRS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56852/devtools/browser/c74555d0-b0e5-41c8-b2ac-ad7b6a99df03
+1639732873347	Marionette	INFO	Listening on port 56857
+1639732873773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639732962802	Marionette	INFO	Stopped listening on port 56857
+1639733251174	geckodriver	INFO	Listening on 127.0.0.1:56972
+1639733253983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56973" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofile9Ax9uT"
+*** You are running in headless mode.
+1639733254828	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofile9Ax9uT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56973/devtools/browser/c12e3355-150c-4b13-8e99-50753a1d5fc9
+1639733256396	Marionette	INFO	Listening on port 56978
+1639733256675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639733344544	Marionette	INFO	Stopped listening on port 56978
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639733579479	geckodriver	INFO	Listening on 127.0.0.1:57089
+1639733582362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57090" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofiletaxol6"
+*** You are running in headless mode.
+1639733583107	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofiletaxol6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57090/devtools/browser/56834678-d886-4d27-b03e-d291d0cacffa
+1639733584655	Marionette	INFO	Listening on port 57095
+1639733585035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639733674432	Marionette	INFO	Stopped listening on port 57095
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640178631347	geckodriver	INFO	Listening on 127.0.0.1:59354
+1640178634394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59355" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofile7I04AI"
+*** You are running in headless mode.
+1640178635391	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofile7I04AI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59355/devtools/browser/2a0751f4-6170-4fd8-838c-35604cc22cf1
+1640178637311	Marionette	INFO	Listening on port 59360
+1640178637585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640178716675	geckodriver	INFO	Listening on 127.0.0.1:59801
+1640178719387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59802" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofile1jtx2F"
+*** You are running in headless mode.
+1640178722547	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofile1jtx2F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59802/devtools/browser/0d1cb90b-26a4-49d3-9346-71269285dcc1
+1640178724570	Marionette	INFO	Listening on port 59831
+1640178724795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640178737740	Marionette	INFO	Stopped listening on port 59831
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640178769048	geckodriver	INFO	Listening on 127.0.0.1:59985
+1640178771884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59986" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileNHIbzT"
+*** You are running in headless mode.
+1640178774596	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileNHIbzT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59986/devtools/browser/93c221b0-c4a0-4535-8e2b-b4b2eea0b841
+1640178776945	Marionette	INFO	Listening on port 59992
+1640178777248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640178893716	Marionette	INFO	Stopped listening on port 59992
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

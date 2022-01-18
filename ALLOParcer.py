@@ -58,7 +58,6 @@ def parse(url_TV,url_registrators,url_magnitols: str) -> List[Tuple[str, str, st
             for item_el in driver.find_elements_by_css_selector(".product-card"):
                 name = item_el.find_element_by_css_selector('.product-card__title').text.strip('Парктронік').strip('Монітор для задніх пасажирів').rstrip('з Android 9.').rstrip('Smart TV').rstrip('Graphite').strip('Професійна втомобільна відеокамера').strip('Антена').strip('- рамка перехідна').strip('2 din').strip('USB').rstrip('Gray').rstrip('Grafit').strip('Відеореєстратор').rstrip('Wi-Fi').strip('Камера заднього виду').strip('Система видеопарковки').strip('Відеокамера внутрішня').strip('Штатна магнітола').strip('Мультимедійний інтерфейс').strip('Мультимедійний центр').strip('Паркувальна камера заднього виду')
 
-                # Не у всех товаров есть ценаr
                 try:
                     price = item_el.find_element_by_css_selector('.v-price-box__cur').text.strip('грн')
                 except NoSuchElementException:
@@ -72,7 +71,6 @@ def parse(url_TV,url_registrators,url_magnitols: str) -> List[Tuple[str, str, st
                 print(row)
                 items.append(row)
 
-            # Если есть кнопка перехода на следующую страницу, то продолжаем цикл, иначе завершаем
             try:
                 a_next_page = driver.find_element_by_css_selector('.pagination__next a')
                 url_TV = a_next_page.get_attribute('href')
@@ -88,7 +86,6 @@ def parse(url_TV,url_registrators,url_magnitols: str) -> List[Tuple[str, str, st
             for item_el in driver.find_elements_by_css_selector(".product-card"):
                 name = item_el.find_element_by_css_selector('.product-card__title').text.strip('Парктронік').strip('Монітор для задніх пасажирів').rstrip('з Android 9.').rstrip('Smart TV').rstrip('Graphite').strip('Професійна втомобільна відеокамера').strip('Антена').strip('- рамка перехідна').strip('2 din').strip('USB').rstrip('Gray').rstrip('Grafit').strip('Відеореєстратор').rstrip('Wi-Fi').strip('Камера заднього виду').strip('Система видеопарковки').strip('Відеокамера внутрішня').strip('Штатна магнітола').strip('Мультимедійний інтерфейс').strip('Мультимедійний центр').strip('Паркувальна камера заднього виду')
 
-                # Не у всех товаров есть ценаr
                 try:
                     price = item_el.find_element_by_css_selector('.v-price-box__cur').text.strip('грн')
                 except NoSuchElementException:
@@ -102,7 +99,6 @@ def parse(url_TV,url_registrators,url_magnitols: str) -> List[Tuple[str, str, st
                 print(row)
                 items.append(row)
 
-            # Если есть кнопка перехода на следующую страницу, то продолжаем цикл, иначе завершаем
             try:
                 a_next_page = driver.find_element_by_css_selector('.pagination__next a')
                 url_registrators = a_next_page.get_attribute('href')
@@ -119,7 +115,6 @@ def parse(url_TV,url_registrators,url_magnitols: str) -> List[Tuple[str, str, st
             for item_el in driver.find_elements_by_css_selector(".product-card"):
                 name = item_el.find_element_by_css_selector('.product-card__title').text.strip('Парктронік').strip('Монітор для задніх пасажирів').rstrip('з Android 9.').rstrip('Smart TV').rstrip('Graphite').strip('Професійна втомобільна відеокамера').strip('Антена').strip('- рамка перехідна').strip('2 din').strip('USB').rstrip('Gray').rstrip('Grafit').strip('Відеореєстратор').rstrip('Wi-Fi').strip('Камера заднього виду').strip('Система видеопарковки').strip('Відеокамера внутрішня').strip('Штатна магнітола').strip('Мультимедійний інтерфейс').strip('Мультимедійний центр').strip('Паркувальна камера заднього виду')
 
-                # Не у всех товаров есть ценаr
                 try:
                     price = item_el.find_element_by_css_selector('.v-price-box__cur').text.strip('грн')
                 except NoSuchElementException:
@@ -133,7 +128,6 @@ def parse(url_TV,url_registrators,url_magnitols: str) -> List[Tuple[str, str, st
                 print(row)
                 items.append(row)
 
-            # Если есть кнопка перехода на следующую страницу, то продолжаем цикл, иначе завершаем
             try:
                 a_next_page = driver.find_element_by_css_selector('.pagination__next a')
                 url_magnitols = a_next_page.get_attribute('href')

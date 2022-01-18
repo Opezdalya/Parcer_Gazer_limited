@@ -1,0 +1,636 @@
+1634245709594	geckodriver	INFO	Listening on 127.0.0.1:65449
+1634245712639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW"
+*** You are running in headless mode.
+1634245717161	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW\\search.json.mozlz4", (void 0)))
+1634245723915	Marionette	INFO	Listening on port 65457
+1634245726140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+1634245823522	Marionette	INFO	Stopped listening on port 65457
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634544126486	geckodriver	INFO	Listening on 127.0.0.1:63039
+1634544129575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt"
+*** You are running in headless mode.
+1634544137844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt\\search.json.mozlz4", (void 0)))
+1634544158220	Marionette	INFO	Listening on port 58241
+1634544158655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634544453258	Marionette	INFO	Stopped listening on port 58241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634545491231	geckodriver	INFO	Listening on 127.0.0.1:64174
+1634545494298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO"
+*** You are running in headless mode.
+1634545496664	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO\\search.json.mozlz4", (void 0)))
+1634545501459	Marionette	INFO	Listening on port 50873
+1634545501627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634545815914	geckodriver	INFO	Listening on 127.0.0.1:52275
+1634545818903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw"
+*** You are running in headless mode.
+1634545822144	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw\\search.json.mozlz4", (void 0)))
+1634545826594	Marionette	INFO	Listening on port 51376
+1634545827103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+1634545856418	Marionette	INFO	Stopped listening on port 51376
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634547214219	geckodriver	INFO	Listening on 127.0.0.1:53271
+1634547217264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZohDUG"
+*** You are running in headless mode.
+1634547218683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZohDUG\\search.json.mozlz4", (void 0)))
+1634547223127	Marionette	INFO	Listening on port 64118
+1634547223793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634547722098	Marionette	INFO	Stopped listening on port 64118
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635239934752	geckodriver	INFO	Listening on 127.0.0.1:50021
+1635239937812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileqEYJ7M"
+*** You are running in headless mode.
+1635239939323	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileqEYJ7M\\search.json.mozlz4", (void 0)))
+1635239953540	Marionette	INFO	Listening on port 52635
+1635239953898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+1635239979911	geckodriver	INFO	Listening on 127.0.0.1:63694
+1635239982948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile6BNRoB"
+*** You are running in headless mode.
+1635239985930	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile6BNRoB\\search.json.mozlz4", (void 0)))
+1635239989715	Marionette	INFO	Listening on port 60608
+1635239990118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+1635240043409	Marionette	INFO	Stopped listening on port 60608
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8512, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8512, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635240122652	geckodriver	INFO	Listening on 127.0.0.1:61561
+1635240125583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilep3LJGi"
+*** You are running in headless mode.
+1635240129393	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilep3LJGi\\search.json.mozlz4", (void 0)))
+1635240133651	Marionette	INFO	Listening on port 59540
+1635240134534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635240178779	Marionette	INFO	Stopped listening on port 59540
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635240640500	geckodriver	INFO	Listening on 127.0.0.1:63857
+1635240643504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilegYBCqj"
+*** You are running in headless mode.
+1635240644540	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilegYBCqj\\search.json.mozlz4", (void 0)))
+1635240647719	Marionette	INFO	Listening on port 57722
+1635240647949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 276: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635501578746	geckodriver	INFO	Listening on 127.0.0.1:60598
+1635501581808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilePDotws"
+*** You are running in headless mode.
+1635501583378	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilePDotws\\search.json.mozlz4", (void 0)))
+1635501588539	Marionette	INFO	Listening on port 60606
+1635501589114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635501647105	Marionette	INFO	Stopped listening on port 60606
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635502188349	geckodriver	INFO	Listening on 127.0.0.1:60927
+1635502191447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileOgr3yN"
+*** You are running in headless mode.
+1635502192198	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileOgr3yN\\search.json.mozlz4", (void 0)))
+1635502195071	Marionette	INFO	Listening on port 60936
+1635502195490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635502232985	Marionette	INFO	Stopped listening on port 60936
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635503092822	geckodriver	INFO	Listening on 127.0.0.1:61469
+1635503095838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileYpp48N"
+*** You are running in headless mode.
+1635503097582	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileYpp48N\\search.json.mozlz4", (void 0)))
+1635503100519	Marionette	INFO	Listening on port 61479
+1635503100896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635503139918	geckodriver	INFO	Listening on 127.0.0.1:61572
+1635503143072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZ0gKVM"
+*** You are running in headless mode.
+1635503144192	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZ0gKVM\\search.json.mozlz4", (void 0)))
+1635503146896	Marionette	INFO	Listening on port 61582
+1635503147273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635503199444	geckodriver	INFO	Listening on 127.0.0.1:61675
+1635503202482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofiled7gavY"
+*** You are running in headless mode.
+1635503202968	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofiled7gavY\\search.json.mozlz4", (void 0)))
+1635503205859	Marionette	INFO	Listening on port 61684
+1635503206259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635503243671	geckodriver	INFO	Listening on 127.0.0.1:61775
+1635503246727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileDwulCn"
+*** You are running in headless mode.
+1635503247056	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileDwulCn\\search.json.mozlz4", (void 0)))
+1635503249976	Marionette	INFO	Listening on port 61784
+1635503250415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635503369814	geckodriver	INFO	Listening on 127.0.0.1:61937
+1635503372864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileXTqu8Y"
+*** You are running in headless mode.
+1635503373431	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileXTqu8Y\\search.json.mozlz4", (void 0)))
+1635503377447	Marionette	INFO	Listening on port 61946
+1635503377905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1635503462574	geckodriver	INFO	Listening on 127.0.0.1:62054
+1635503465602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileKgu0RL"
+*** You are running in headless mode.
+1635503466130	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileKgu0RL\\search.json.mozlz4", (void 0)))
+1635503468799	Marionette	INFO	Listening on port 62064
+1635503469197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635503505842	Marionette	INFO	Stopped listening on port 62064
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635503575404	geckodriver	INFO	Listening on 127.0.0.1:62183
+1635503578417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileSWfwAF"
+*** You are running in headless mode.
+1635503578815	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileSWfwAF\\search.json.mozlz4", (void 0)))
+1635503581470	Marionette	INFO	Listening on port 62198
+1635503582134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635503612323	Marionette	INFO	Stopped listening on port 62198
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635504050934	geckodriver	INFO	Listening on 127.0.0.1:62496
+1635504053985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile5zMB97"
+*** You are running in headless mode.
+1635504054370	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile5zMB97\\search.json.mozlz4", (void 0)))
+1635504056867	Marionette	INFO	Listening on port 62505
+1635504057215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1635504096623	Marionette	INFO	Stopped listening on port 62505
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635756275161	geckodriver	INFO	Listening on 127.0.0.1:59727
+1635756278283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileiZ6Jou"
+*** You are running in headless mode.
+1635756278687	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileiZ6Jou\\search.json.mozlz4", (void 0)))
+1635756287765	Marionette	INFO	Listening on port 59736
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635756289801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5FVH69V, line 275: unreachable code after return statement
+1635756343078	Marionette	INFO	Stopped listening on port 59736
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 14624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639653969659	geckodriver	INFO	Listening on 127.0.0.1:50562
+1639653972712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50563" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofiled0YPQk"
+*** You are running in headless mode.
+1639653973620	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofiled0YPQk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50563/devtools/browser/94d50a24-0fc8-4852-84dc-f3a75e23fe71
+1639653975168	Marionette	INFO	Listening on port 50569
+1639653975396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1639654016561	Marionette	INFO	Stopped listening on port 50569
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639655419061	geckodriver	INFO	Listening on 127.0.0.1:50751
+1639655421671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50752" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofile1sZ84w"
+*** You are running in headless mode.
+1639655422440	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofile1sZ84w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50752/devtools/browser/17be5ba9-773e-40fb-a02f-e16a47f905cb
+1639655423970	Marionette	INFO	Listening on port 50757
+1639655424346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1639655453177	Marionette	INFO	Stopped listening on port 50757
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640179138554	geckodriver	INFO	Listening on 127.0.0.1:60237
+1640179141610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60238" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofilefFsUI8"
+*** You are running in headless mode.
+1640179143990	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofilefFsUI8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60238/devtools/browser/40ad46fc-a2b1-4c02-b92d-af69586513bf
+1640179146258	Marionette	INFO	Listening on port 60243
+1640179146442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+JavaScript error: https://notebooker.ua/bitrix/cache/js/s2/notebooker/template_9d04bdcd1c692dbe27dca5e62a183d84/template_9d04bdcd1c692dbe27dca5e62a183d84_v1.js?1630606258256108, line 4397: TypeError: json.city is null
+1640179270866	Marionette	INFO	Stopped listening on port 60243
+[Parent 20208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

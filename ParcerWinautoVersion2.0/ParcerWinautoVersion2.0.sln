@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ParcerWinautoVersion2.0", "ParcerWinautoVersion2.0\ParcerWinautoVersion2.0.pyproj", "{B053C6C7-2D3B-43F4-88F4-C173D32B230C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B053C6C7-2D3B-43F4-88F4-C173D32B230C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B053C6C7-2D3B-43F4-88F4-C173D32B230C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5E9640E-7978-42B0-8266-4571BECC26A0}
+	EndGlobalSection
+EndGlobal

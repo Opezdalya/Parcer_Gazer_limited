@@ -1,0 +1,1216 @@
+1634245709594	geckodriver	INFO	Listening on 127.0.0.1:65449
+1634245712639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW"
+*** You are running in headless mode.
+1634245717161	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileOF2OEW\\search.json.mozlz4", (void 0)))
+1634245723915	Marionette	INFO	Listening on port 65457
+1634245726140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N4LDSTX, line 286: unreachable code after return statement
+1634245823522	Marionette	INFO	Stopped listening on port 65457
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634544126486	geckodriver	INFO	Listening on 127.0.0.1:63039
+1634544129575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt"
+*** You are running in headless mode.
+1634544137844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile5sHPBt\\search.json.mozlz4", (void 0)))
+1634544158220	Marionette	INFO	Listening on port 58241
+1634544158655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634544453258	Marionette	INFO	Stopped listening on port 58241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634545491231	geckodriver	INFO	Listening on 127.0.0.1:64174
+1634545494298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO"
+*** You are running in headless mode.
+1634545496664	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMfmtlO\\search.json.mozlz4", (void 0)))
+1634545501459	Marionette	INFO	Listening on port 50873
+1634545501627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634545815914	geckodriver	INFO	Listening on 127.0.0.1:52275
+1634545818903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw"
+*** You are running in headless mode.
+1634545822144	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileMzlvGw\\search.json.mozlz4", (void 0)))
+1634545826594	Marionette	INFO	Listening on port 51376
+1634545827103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+1634545856418	Marionette	INFO	Stopped listening on port 51376
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634547214219	geckodriver	INFO	Listening on 127.0.0.1:53271
+1634547217264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZohDUG"
+*** You are running in headless mode.
+1634547218683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZohDUG\\search.json.mozlz4", (void 0)))
+1634547223127	Marionette	INFO	Listening on port 64118
+1634547223793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript error: https://api.exponea.com/js/exponea.min.js line 23 > Function, line 15: TypeError: registration.active is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 357: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M9XRG9, line 356: unreachable code after return statement
+1634547722098	Marionette	INFO	Stopped listening on port 64118
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1634729474487	geckodriver	INFO	Listening on 127.0.0.1:53574
+1634729477552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileYYeMNC"
+*** You are running in headless mode.
+1634729486052	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileYYeMNC\\search.json.mozlz4", (void 0)))
+1634729505246	Marionette	INFO	Listening on port 60030
+1634729505532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1291330814, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1291330814, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1291330814, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1291330814 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1291330814 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634729642910	geckodriver	INFO	Listening on 127.0.0.1:60998
+1634729645940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileeKkxLo"
+*** You are running in headless mode.
+1634729648562	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileeKkxLo\\search.json.mozlz4", (void 0)))
+1634729651943	Marionette	INFO	Listening on port 58213
+1634729652399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1125112787, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1125112787, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1125112787, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1125112787 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1125112787 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634729659339	Marionette	INFO	Stopped listening on port 58213
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 11400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 11400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634729719101	geckodriver	INFO	Listening on 127.0.0.1:54496
+1634729722185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilewHTDsF"
+*** You are running in headless mode.
+1634729723625	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilewHTDsF\\search.json.mozlz4", (void 0)))
+1634729727229	Marionette	INFO	Listening on port 64987
+1634729727618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262096053, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262096053, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262096053, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262096053 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262096053 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634729835715	geckodriver	INFO	Listening on 127.0.0.1:51487
+1634729838732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileqzSwZ9"
+*** You are running in headless mode.
+1634729839784	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileqzSwZ9\\search.json.mozlz4", (void 0)))
+1634729843604	Marionette	INFO	Listening on port 57810
+1634729844103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=490411010, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=490411010, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=490411010, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=490411010 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=490411010 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634729856174	Marionette	INFO	Stopped listening on port 57810
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634729920894	geckodriver	INFO	Listening on 127.0.0.1:61424
+1634729923874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileCYrr1e"
+*** You are running in headless mode.
+1634729924444	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileCYrr1e\\search.json.mozlz4", (void 0)))
+1634729927201	Marionette	INFO	Listening on port 61432
+1634729927624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=160077422, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=160077422, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=160077422 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634729938754	Marionette	INFO	Stopped listening on port 61432
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634729999150	geckodriver	INFO	Listening on 127.0.0.1:64021
+1634730002205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile8tGvxk"
+*** You are running in headless mode.
+1634730003024	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile8tGvxk\\search.json.mozlz4", (void 0)))
+1634730005883	Marionette	INFO	Listening on port 64029
+1634730006112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2086305381, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2086305381, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2086305381, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2086305381 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2086305381 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634730037763	Marionette	INFO	Stopped listening on port 64029
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634730128385	geckodriver	INFO	Listening on 127.0.0.1:62275
+1634730131435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileC8HI00"
+*** You are running in headless mode.
+1634730131950	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileC8HI00\\search.json.mozlz4", (void 0)))
+1634730134535	Marionette	INFO	Listening on port 62283
+1634730134793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=2, line 11615: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=921028183, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=921028183, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=921028183, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=921028183 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=921028183 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634730224345	geckodriver	INFO	Listening on 127.0.0.1:61848
+1634730227331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileNz2MyN"
+*** You are running in headless mode.
+1634730227855	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileNz2MyN\\search.json.mozlz4", (void 0)))
+1634730231251	Marionette	INFO	Listening on port 61856
+1634730231582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=2, line 11615: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=946477982, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=946477982, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=946477982, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=946477982 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=946477982 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634730261714	Marionette	INFO	Stopped listening on port 61856
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634730285489	geckodriver	INFO	Listening on 127.0.0.1:54698
+1634730288476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileZIsJCV"
+*** You are running in headless mode.
+1634730290093	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileZIsJCV\\search.json.mozlz4", (void 0)))
+1634730293358	Marionette	INFO	Listening on port 54706
+1634730293740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=2, line 11615: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994531210, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994531210, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994531210, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994531210 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994531210 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634730318961	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=2, line 11615: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=2, line 11615: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634731185543	geckodriver	INFO	Listening on 127.0.0.1:54462
+1634731188531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilebB6EuK"
+*** You are running in headless mode.
+1634731191383	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilebB6EuK\\search.json.mozlz4", (void 0)))
+1634731198199	Marionette	INFO	Listening on port 54470
+1634731198763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1867708340, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1867708340, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1867708340, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1867708340 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1867708340 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634731263901	geckodriver	INFO	Listening on 127.0.0.1:56677
+1634731266945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileFQ5kyj"
+*** You are running in headless mode.
+1634731269937	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileFQ5kyj\\search.json.mozlz4", (void 0)))
+1634731273838	Marionette	INFO	Listening on port 56685
+1634731274400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1442757315, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1442757315, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1442757315, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1442757315 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1442757315 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634731306556	Marionette	INFO	Stopped listening on port 56685
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634732817659	geckodriver	INFO	Listening on 127.0.0.1:62455
+1634732820652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofiledmViQP"
+*** You are running in headless mode.
+1634732823637	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofiledmViQP\\search.json.mozlz4", (void 0)))
+1634732837009	Marionette	INFO	Listening on port 50637
+1634732837508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=14, line 5088: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=843107075, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=843107075, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=843107075 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634732890241	geckodriver	INFO	Listening on 127.0.0.1:61960
+1634732893269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilebfRk8d"
+*** You are running in headless mode.
+1634732894833	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilebfRk8d\\search.json.mozlz4", (void 0)))
+1634732898757	Marionette	INFO	Listening on port 62427
+1634732899185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=14, line 5088: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1098847223, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1098847223, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1098847223, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1098847223 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1098847223 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=14, line 5088: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=14, line 5088: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=14, line 5088: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=14, line 5088: SyntaxError: expected expression, got ';'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634733066406	geckodriver	INFO	Listening on 127.0.0.1:62677
+1634733069399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile3RALqF"
+*** You are running in headless mode.
+1634733070532	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile3RALqF\\search.json.mozlz4", (void 0)))
+1634733074262	Marionette	INFO	Listening on port 49372
+1634733074980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=13, line 6552: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/uk/search?query=Gazer&filter=_195_588&pFilter=%2C9501%3D115448&page=13, line 6552: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=33&cb=750928523, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=33&cb=750928523, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=33&cb=750928523 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634742770235	geckodriver	INFO	Listening on 127.0.0.1:49604
+1634742773059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilehrnfqg"
+*** You are running in headless mode.
+1634742780669	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilehrnfqg\\search.json.mozlz4", (void 0)))
+1634742800767	Marionette	INFO	Listening on port 49612
+1634742801347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=358744398, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=358744398, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=358744398, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=358744398 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=358744398 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2141:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634745223240	geckodriver	INFO	Listening on 127.0.0.1:60140
+1634745226228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofiledRva0H"
+1634745234006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofiledRva0H\\search.json.mozlz4", (void 0)))
+1634745266575	Marionette	INFO	Listening on port 59089
+1634745267187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=122249461, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=122249461, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=122249461, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=122249461 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=122249461 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634745482886	geckodriver	INFO	Listening on 127.0.0.1:53222
+1634745485910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileG82VTj"
+*** You are running in headless mode.
+1634745488335	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileG82VTj\\search.json.mozlz4", (void 0)))
+1634745492086	Marionette	INFO	Listening on port 62912
+1634745492754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=7136867, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=7136867, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=7136867 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=7136867 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634745520353	Marionette	INFO	Stopped listening on port 62912
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634806864171	geckodriver	INFO	Listening on 127.0.0.1:56973
+1634806867356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileCHAKZa"
+*** You are running in headless mode.
+1634806881885	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileCHAKZa\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1634806919825	Marionette	INFO	Listening on port 53743
+1634806920493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1403812843, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1403812843, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1403812843 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1403812843 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634806972029	Marionette	INFO	Stopped listening on port 53743
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634807054895	geckodriver	INFO	Listening on 127.0.0.1:63270
+1634807057939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilepT94cQ"
+*** You are running in headless mode.
+1634807060321	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilepT94cQ\\search.json.mozlz4", (void 0)))
+1634807063475	Marionette	INFO	Listening on port 63278
+1634807063950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1734056484, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1734056484, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1734056484, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1734056484 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1734056484 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+1634807089289	Marionette	INFO	Stopped listening on port 63278
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634838129908	geckodriver	INFO	Listening on 127.0.0.1:59627
+1634838132906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileTKj5Hv"
+*** You are running in headless mode.
+1634838134241	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileTKj5Hv\\search.json.mozlz4", (void 0)))
+1634838137186	Marionette	INFO	Listening on port 50656
+1634838137626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85658902, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85658902, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85658902, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85658902 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85658902 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11588: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11587: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11590: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11570: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11562: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11556: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11551: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11566: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11554: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11568: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 11542: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=13, line 6265: SyntaxError: expected expression, got ';'
+1634838181656	Marionette	INFO	Stopped listening on port 50656
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634838307327	geckodriver	INFO	Listening on 127.0.0.1:63451
+1634838310362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofile1ZhrbP"
+*** You are running in headless mode.
+1634838310730	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofile1ZhrbP\\search.json.mozlz4", (void 0)))
+1634838313230	Marionette	INFO	Listening on port 56531
+1634838313690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1332175154, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1332175154, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1332175154, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1332175154 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1332175154 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11588: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11587: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11590: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11570: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11562: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11556: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11551: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11566: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11554: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11568: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 11542: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=13, line 6265: SyntaxError: expected expression, got ';'
+1634838356458	Marionette	INFO	Stopped listening on port 56531
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634838451025	geckodriver	INFO	Listening on 127.0.0.1:55365
+1634838453980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofiler1AOTR"
+*** You are running in headless mode.
+1634838454427	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofiler1AOTR\\search.json.mozlz4", (void 0)))
+1634838457480	Marionette	INFO	Listening on port 59061
+1634838457856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=274167711, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=274167711, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=274167711 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=274167711 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11588: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11587: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11590: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 293: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11570: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11562: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11556: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11551: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11566: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11554: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11568: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 11542: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=13, line 6265: SyntaxError: expected expression, got ';'
+1634838500082	Marionette	INFO	Stopped listening on port 59061
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634838611127	geckodriver	INFO	Listening on 127.0.0.1:62878
+1634838614085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileFV70yH"
+*** You are running in headless mode.
+1634838614605	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileFV70yH\\search.json.mozlz4", (void 0)))
+1634838617654	Marionette	INFO	Listening on port 60040
+1634838618141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=259869536, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=259869536, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=259869536, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=259869536 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=259869536 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11588: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11587: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11590: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11570: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11562: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11556: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11551: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11566: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11554: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11568: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 11542: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=13, line 6265: SyntaxError: expected expression, got ';'
+1634838671399	Marionette	INFO	Stopped listening on port 60040
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634838911674	geckodriver	INFO	Listening on 127.0.0.1:63338
+1634838914667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileAQehtT"
+*** You are running in headless mode.
+1634838915510	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileAQehtT\\search.json.mozlz4", (void 0)))
+1634838919415	Marionette	INFO	Listening on port 49732
+1634838920016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1220501142, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1220501142, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1220501142, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1220501142 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1220501142 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11588: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11587: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11590: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11570: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11562: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11556: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11551: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11566: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11554: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11568: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 11542: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=13, line 6265: SyntaxError: expected expression, got ';'
+1634838965989	Marionette	INFO	Stopped listening on port 49732
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634840788899	geckodriver	INFO	Listening on 127.0.0.1:57788
+1634840791841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileFeVW8F"
+*** You are running in headless mode.
+1634840793710	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileFeVW8F\\search.json.mozlz4", (void 0)))
+1634840797017	Marionette	INFO	Listening on port 54965
+1634884678984	geckodriver	INFO	Listening on 127.0.0.1:60312
+1634884681833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileQm8y4T"
+*** You are running in headless mode.
+1634884689670	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileQm8y4T\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634884715031	Marionette	INFO	Listening on port 60322
+1634884715825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=9125195, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=9125195, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=9125195 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11582: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11581: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11584: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11564: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11556: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11550: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11545: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11560: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11548: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11562: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 11536: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=13, line 6259: SyntaxError: expected expression, got ';'
+1634884786854	Marionette	INFO	Stopped listening on port 60322
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  3
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 4168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634973412645	geckodriver	INFO	Listening on 127.0.0.1:64849
+1634973415557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilefwTqxe"
+*** You are running in headless mode.
+1634973419170	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilefwTqxe\\search.json.mozlz4", (void 0)))
+1634973423908	Marionette	INFO	Listening on port 64858
+1634973424398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=699146078, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=699146078, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=699146078 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11555: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11553: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11558: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11572: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11575: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11548: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11548: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11548: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11481: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11530: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 11544: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=13, line 6205: SyntaxError: expected expression, got ';'
+1634973484011	Marionette	INFO	Stopped listening on port 64858
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635164700226	geckodriver	INFO	Listening on 127.0.0.1:57563
+1635164703264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileF58xPE"
+*** You are running in headless mode.
+1635164703690	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileF58xPE\\search.json.mozlz4", (void 0)))
+1635164707497	Marionette	INFO	Listening on port 57571
+1635164707791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=279357033, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=279357033, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=279357033, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=279357033 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=279357033 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11744: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11747: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11762: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11798: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11777: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11751: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11640: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11672: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11680: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11753: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 10937: SyntaxError: expected expression, got ';'
+1635164755032	Marionette	INFO	Stopped listening on port 57571
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635331846820	geckodriver	INFO	Listening on 127.0.0.1:51130
+1635331849877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofilelH9IJA"
+*** You are running in headless mode.
+1635331858220	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofilelH9IJA\\search.json.mozlz4", (void 0)))
+1635331878096	Marionette	INFO	Listening on port 51139
+1635331878951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2137222838, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2137222838, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2137222838, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2137222838 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2137222838 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11736: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11739: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11759: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11791: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11768: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11734: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11636: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11670: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11689: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11753: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 10154: SyntaxError: expected expression, got ';'
+1635331988567	Marionette	INFO	Stopped listening on port 51139
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 18268, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635332053788	geckodriver	INFO	Listening on 127.0.0.1:51285
+1635332056869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\6376~1.()\\AppData\\Local\\Temp\\rust_mozprofileh24uZ0"
+*** You are running in headless mode.
+1635332061548	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041A.\u0411\u043E\u044F\u0440 (\u0412\u0442\u043E\u0440\u043E\u0439)\\AppData\\Local\\Temp\\rust_mozprofileh24uZ0\\search.json.mozlz4", (void 0)))
+1635332066046	Marionette	INFO	Listening on port 51293
+1635332066617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1948670993, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1948670993, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1948670993, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1948670993 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1948670993 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11736: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11739: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11759: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M46JXM, line 292: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11791: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11768: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11734: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11636: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11670: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11689: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 11753: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=12, line 10154: SyntaxError: expected expression, got ';'
+1635332115721	Marionette	INFO	Stopped listening on port 51293
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639572200483	geckodriver	INFO	Listening on 127.0.0.1:62986
+1639572203553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62987" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.000\\AppData\\Local\\Temp\\rust_mozprofile8BcHwK"
+*** You are running in headless mode.
+1639572206141	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.000\\AppData\\Local\\Temp\\rust_mozprofile8BcHwK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62987/devtools/browser/4aeb44f3-aaca-46c1-a7c6-a9776316b85b
+1639572207560	Marionette	INFO	Listening on port 62995
+1639572207767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=613032361, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=613032361, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=613032361, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=613032361 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=613032361 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11730: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11695: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11705: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11749: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11748: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11715: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11715: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11741: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11597: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 7322: SyntaxError: expected expression, got ';'
+1639572236735	Marionette	INFO	Stopped listening on port 62995
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639572265611	geckodriver	INFO	Listening on 127.0.0.1:63110
+1639572268287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63111" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.000\\AppData\\Local\\Temp\\rust_mozprofilezsNZ1m"
+*** You are running in headless mode.
+1639572269104	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.000\\AppData\\Local\\Temp\\rust_mozprofilezsNZ1m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63111/devtools/browser/8b914400-a85e-4228-9f89-ec6973df09de
+1639572270605	Marionette	INFO	Listening on port 63116
+1639572271001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1980266013, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1980266013, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1980266013 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11730: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11695: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11705: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11749: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11748: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11715: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11715: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11741: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11597: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 7322: SyntaxError: expected expression, got ';'
+1639572297574	Marionette	INFO	Stopped listening on port 63116
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639572322535	geckodriver	INFO	Listening on 127.0.0.1:63232
+1639572325593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63233" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.000\\AppData\\Local\\Temp\\rust_mozprofile6K1w4W"
+*** You are running in headless mode.
+1639572325920	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.000\\AppData\\Local\\Temp\\rust_mozprofile6K1w4W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63233/devtools/browser/dfb1f933-5232-4882-b327-1c6cbf71a78d
+1639572327390	Marionette	INFO	Listening on port 63240
+1639572327644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15744446, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15744446, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15744446 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15744446 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11730: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11695: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11705: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11749: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11748: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11715: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11715: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11741: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11597: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 7322: SyntaxError: expected expression, got ';'
+1639572354046	Marionette	INFO	Stopped listening on port 63240
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640102597580	geckodriver	INFO	Listening on 127.0.0.1:64551
+1640102600649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64552" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileUQ2OKf"
+*** You are running in headless mode.
+1640102603186	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileUQ2OKf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64552/devtools/browser/bd6f3733-0ba1-470a-8771-77c3ddf08a6a
+1640102604926	Marionette	INFO	Listening on port 64558
+1640102604962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1106883985, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1106883985, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1106883985 line 1 > eval, line 1: unreachable code after return statement
+1640102627892	Marionette	INFO	Stopped listening on port 64558
+1640102669098	geckodriver	INFO	Listening on 127.0.0.1:64680
+1640102671865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64681" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileKInI22"
+*** You are running in headless mode.
+1640102672545	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileKInI22\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64681/devtools/browser/76168e77-71ca-4726-92fa-a9428e847243
+1640102674137	Marionette	INFO	Listening on port 64686
+1640102674568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=631360678, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=631360678, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=631360678, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=631360678 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=631360678 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11685: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11634: SyntaxError: expected expression, got ';'
+[Child 13916, MediaDecoderStateMachine #1] WARNING: Decoder=24bbedbfc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 13916, MediaDecoderStateMachine #1] WARNING: Decoder=24bbedbfc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11712: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11712: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11688: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11675: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=8, line 11710: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=9, line 11744: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=10, line 11575: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=11, line 6576: SyntaxError: expected expression, got ';'
+1640102710772	Marionette	INFO	Stopped listening on port 64686
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640102896609	geckodriver	INFO	Listening on 127.0.0.1:64801
+1640102899479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64802" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileUGdPIs"
+*** You are running in headless mode.
+1640102900061	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileUGdPIs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64802/devtools/browser/b65da5c3-5c0a-4e99-a93b-215de996d5db
+1640102901555	Marionette	INFO	Listening on port 64809
+1640102901649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2028568109, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2028568109, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2028568109 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11685: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11634: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11464: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11712: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11688: SyntaxError: expected expression, got ';'
+1640102933529	geckodriver	INFO	Listening on 127.0.0.1:64891
+1640102936570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64892" "-no-remote" "-profile" "C:\\Users\\TEMPDE~1.001\\AppData\\Local\\Temp\\rust_mozprofileWU7LHd"
+*** You are running in headless mode.
+1640102936922	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TEMP.DESKTOP-QHK6G7M.001\\AppData\\Local\\Temp\\rust_mozprofileWU7LHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64892/devtools/browser/d1fd319e-1874-4362-bef8-a661ea2cb857
+1640102938500	Marionette	INFO	Listening on port 64897
+1640102938640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1485692306, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1485692306, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1485692306, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1485692306 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.foxtrot.com.ua/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1485692306 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=2, line 11685: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=3, line 11634: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=4, line 11464: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=5, line 11712: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=6, line 11688: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.foxtrot.com.ua/ru/search?query=gazer&filter=_195_588&page=7, line 11675: SyntaxError: expected expression, got ';'
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2110:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'

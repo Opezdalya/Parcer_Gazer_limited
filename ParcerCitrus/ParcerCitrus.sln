@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ParcerCitrus", "ParcerCitrus\ParcerCitrus.pyproj", "{12C7D3E2-4476-43A4-9408-FDC98488F760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C7D3E2-4476-43A4-9408-FDC98488F760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C7D3E2-4476-43A4-9408-FDC98488F760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3C7EDC-AB73-4FCA-A07A-3623F5DD03E8}
+	EndGlobalSection
+EndGlobal
